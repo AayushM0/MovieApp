@@ -1,0 +1,57 @@
+.Search-form{
+   
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    justify-content: center;
+}
+
+.search-input{
+    background-color: white;
+    padding: 8px;
+    margin-right: 5px;
+    border: 3px solid ;
+    width: 250px;
+    
+    
+}
+
+input{
+    outline: none;
+}
+
+.search-button{
+    padding: 8px;
+    width: 90px;
+    background-color: rgb(247, 189, 81);
+    border: 3px solid;
+    text-align: center;
+
+}
+.search-button:hover{
+    cursor: pointer;
+    background-color: rgba(247, 189, 81, 0.781);
+}
+
+.movie-card-container{
+    border: 5px solid white;
+    margin: 0px 30px;
+    padding: 5px;
+    
+}
+
+.Movies-Grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0px; /* space between movie cards */
+    justify-content: center; /* center the row */
+}
+
+.pop{
+    background: transparent;
+    text-align: center;
+    font-size: 2em;
+    margin: 10px 0px;
+    padding: 5px;
+}
