@@ -1,5 +1,5 @@
-const API_KEY="46d24cbec9db93d1df9d55defd485a1e"
-const API_URL="https://api.themoviedb.org/3"
+const API_KEY=
+const API_URL=
 
 
 
