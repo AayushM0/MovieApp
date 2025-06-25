@@ -12,7 +12,7 @@
 .Movie-image {
   
     width: 100%; /* Use 100% of the parent's width */
-    height: 450px; /* Fixed height */
+    height: 400px; /* Fixed height */
     overflow: hidden;
     position: relative;
 }
